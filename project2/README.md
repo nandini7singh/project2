@@ -1,4 +1,4 @@
 # new project 
 
-this project created with local
-created by nandu
+this project created with local.
+Created by Nandu.
